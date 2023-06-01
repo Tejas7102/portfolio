@@ -6,6 +6,10 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+.spliter{
+  clear: both;
+  height: 90px;
+}
 body{
   background: #000;
   height: 100%;
