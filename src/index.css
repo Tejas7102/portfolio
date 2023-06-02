@@ -14,7 +14,7 @@ body{
   background: #000;
   height: 100%;
 }
-h1,h4,p,a{
+h1,h4,p,a,h3{
   color: white;
   text-decoration: none;
 }
