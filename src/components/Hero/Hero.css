@@ -58,6 +58,10 @@
     margin: 1vh 0 1vh 0;
     color: white;
 }
+.content p{
+    font-size: 3vh;
+    font-weight: 200;
+}
 .button{
     margin-top: 4vh;
 }

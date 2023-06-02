@@ -33,3 +33,12 @@
     background-size: cover;
     z-index: -1;
 }
+.sub_c_hero2 h3{
+    font-size: 5vh;
+    font-weight: 400;
+    margin-bottom: 4px;
+}
+.sub_c_hero2 p{
+    font-size: 3vh;
+    font-weight: 300;
+}
