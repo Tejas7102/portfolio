@@ -1,0 +1,6 @@
+.p_c{
+    display: flex;
+    justify-content: center;
+    margin: 10px 0px 0px 8vw;
+    flex-wrap: wrap;
+}
