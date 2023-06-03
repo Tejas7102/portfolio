@@ -34,7 +34,7 @@ function Navbaar() {
           </li>
         </ul>
         <div className="ham" onClick={handleOnClick}>
-          {click ? (<FaTimes size={20} style={{color:'#fff'}}/>):(<FaBars size={20} style={{color:'#fff'}}/>)}
+          {click ? (<FaTimes size={20} style={{color:'#fff'}}/>):(<FaBars size={15} style={{color:'#fff'}}/>)}
           
           
         </div>
