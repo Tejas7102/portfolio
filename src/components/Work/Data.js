@@ -2,23 +2,23 @@ import p1 from '../assest/p1.jpg'
 import p2 from '../assest/p2.jpeg'
 const Data=[
     {
-        img: p1,
+        img: "https://cdn.decoist.com/wp-content/uploads/2015/11/Ladder-bookshelves-and-bold-pendants-for-the-modern-library.jpg",
         title: "Library Management System",
-        text: "It is a RFID base Library management system. It is built using ReactJS, NodeJS and Firebas, It has details of registered user like which books have been baught by him, What is return date of the issued books and also contain details regarding available boopks in library.",
+        text: "The Library Management System is a web app built with React and Firebase. It allows users to manage books, view details and availability, and track borrowing history. It includes authentication, search, and Firebase integration for seamless management.",
         view: "https://smartlibrarysystem.vercel.app/",
         source: "https://github.com/dnikunj178/RFID-Based-Library-Management-System",
     },
     {
-        img: p2,
+        img: "https://img.lovepik.com/photo/40027/7318.jpg_wh300.jpg",
         title: "Ecommerce Website",
-        text: "It is a Ecommerce website for tailor shop. It is built using html, css and php. It has details regarding products available on the shop and details of purchased iteam of signed in user. User also can by the product.",
+        text: "The E-commerce website is built with HTML, CSS, and PHP. It offers user-friendly shopping with attractive designs and essential features like product browsing and cart management. HTML provides structure, CSS handles styling, and PHP manages server-side functions for a seamless experience.",
         view: "",
         source: "https://github.com/Tejas7102/favourite-tailor-website",
     },
     {
         img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzCRDxo1n9xTHBm5OljQIkxFlpp3bMgJIPxw&usqp=CAU",
         title: "Tic Tac Toe",
-        text: "It is a simple Tic Tac Toe game. It is built using python. There is features like single player and multiplayer also. If we choose multiplayer than we can play this game with our frirnd with two different computer",
+        text: "The multiplayer Tic Tac Toe game is built with Python, offering an interactive interface for multiple players. Python handles game logic, player turns, and win conditions. Enjoyable gaming experience for all.",
         view: "",
         source: "https://github.com/Tejas7102/tic-tac-toe",
     }

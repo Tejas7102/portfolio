@@ -1,8 +1,8 @@
 .workcontainer{
-    height: 70vh;
+    height: 75vh;
     position: relative;
     width: 26vw;
-    background-color: rgba(85, 82, 82, 0.5);
+    background-color: rgba(188, 227, 230, 0.153);
     margin: 10px;
     margin-right: 10vw;
     border-radius: 5px;
@@ -17,8 +17,10 @@
     padding: 10px 0px;
 }
 .s1_workcontainer img{
-    width: 100%;
+    margin: 10px 5%;
+    width: 90%;
     height: 30vh;
+    border-radius: 10px;
 }
 .s1_workcontainer h3{
     text-align: center;
@@ -51,7 +53,7 @@
         height: 70vh;
         position: relative;
         width: 80vw;
-        background-color: rgba(85, 82, 82, 0.5);
+        background-color: rgba(188, 227, 230, 0.153);
         margin: 10px;
         margin-right: 10vw;
         border-radius: 5px;
