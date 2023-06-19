@@ -9,6 +9,13 @@ const Data=[
         source: "https://github.com/dnikunj178/RFID-Based-Library-Management-System",
     },
     {
+        img: "https://www.shutterstock.com/image-photo/do-list-notebook-coffee-cup-260nw-1137115346.jpg",
+        title: "Todo app",
+        text: "I developed a Todo Web App using React, Node.js, and MongoDB. It features an intuitive interface, seamless cross-device experience, and efficient task management. This project highlights my skills in UI design, database management, and backend development.",
+        view: "https://todo-phi-steel.vercel.app/",
+        source: "https://github.com/Tejas7102/todolist",
+    },
+    {
         img: "https://img.lovepik.com/photo/40027/7318.jpg_wh300.jpg",
         title: "Ecommerce Website",
         text: "The E-commerce website is built with HTML, CSS, and PHP. It offers user-friendly shopping with attractive designs and essential features like product browsing and cart management. HTML provides structure, CSS handles styling, and PHP manages server-side functions for a seamless experience.",
